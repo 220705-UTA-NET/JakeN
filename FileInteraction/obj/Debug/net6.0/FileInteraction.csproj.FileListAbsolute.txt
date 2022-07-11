@@ -13,3 +13,18 @@ C:\Users\Jake\Desktop\Work\Revature\Notes\Day 5\FileInteraction\obj\Debug\net6.0
 C:\Users\Jake\Desktop\Work\Revature\Notes\Day 5\FileInteraction\obj\Debug\net6.0\FileInteraction.pdb
 C:\Users\Jake\Desktop\Work\Revature\Notes\Day 5\FileInteraction\obj\Debug\net6.0\FileInteraction.genruntimeconfig.cache
 C:\Users\Jake\Desktop\Work\Revature\Notes\Day 5\FileInteraction\obj\Debug\net6.0\ref\FileInteraction.dll
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\bin\Debug\net6.0\FileInteraction.exe
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\bin\Debug\net6.0\FileInteraction.deps.json
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\bin\Debug\net6.0\FileInteraction.runtimeconfig.json
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\bin\Debug\net6.0\FileInteraction.dll
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\bin\Debug\net6.0\FileInteraction.pdb
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.dll
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\refint\FileInteraction.dll
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.pdb
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\FileInteraction.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Work\Revature\JakeN\FileInteraction\obj\Debug\net6.0\ref\FileInteraction.dll

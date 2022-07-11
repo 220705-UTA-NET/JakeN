@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\Notes\\Day 5\\FileInteraction\\FileInteraction.csproj",
+      "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\JakeN\\FileInteraction\\FileInteraction.csproj",
       "projectName": "FileInteraction",
-      "projectPath": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\Notes\\Day 5\\FileInteraction\\FileInteraction.csproj",
+      "projectPath": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\JakeN\\FileInteraction\\FileInteraction.csproj",
       "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\Notes\\Day 5\\FileInteraction\\obj\\",
+      "outputPath": "C:\\Users\\Jake\\Desktop\\Work\\Revature\\JakeN\\FileInteraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ namespace FileInteraction
             while (loop != false)
             {
                 Console.Write("\n0: Exit.\n1: Read from file.\n2: Write to file.\nPlease select an option: ");
-                string choice = Console.ReadLine();
+                string? choice = Console.ReadLine();
                 switch (choice)
                 {
                     case "1": // if (choice == read)
